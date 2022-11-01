@@ -1,0 +1,4 @@
+- 👋 Hi, I’m J0KER
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently learning Programming 
+- 💞️ I’m looking to collaborate on Hacking
